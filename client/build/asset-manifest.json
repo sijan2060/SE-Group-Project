@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SE-Group-Project/static/css/main.a9989e85.css",
+    "main.js": "/SE-Group-Project/static/js/main.61f1edab.js",
+    "static/media/Mission1.jpg": "/SE-Group-Project/static/media/Mission1.511875d445333645ecf0.jpg",
+    "static/media/IME.jpg": "/SE-Group-Project/static/media/IME.302c7e5b5884e1208751.jpg",
+    "static/media/Esewa.jpg": "/SE-Group-Project/static/media/Esewa.bab07016926da0617dc8.jpg",
+    "index.html": "/SE-Group-Project/index.html",
+    "main.a9989e85.css.map": "/SE-Group-Project/static/css/main.a9989e85.css.map",
+    "main.61f1edab.js.map": "/SE-Group-Project/static/js/main.61f1edab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9989e85.css",
+    "static/js/main.61f1edab.js"
+  ]
+}
